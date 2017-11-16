@@ -1,0 +1,2 @@
+# typescriptsample
+trying  typescript
