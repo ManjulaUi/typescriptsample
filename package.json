@@ -1,0 +1,23 @@
+{
+  "name": "typescriptsample",
+  "version": "1.0.0",
+  "description": "trying typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjulaUi/typescriptsample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjulaUi/typescriptsample/issues"
+  },
+  "homepage": "https://github.com/ManjulaUi/typescriptsample#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
